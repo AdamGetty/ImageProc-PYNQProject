@@ -12,7 +12,3 @@ The bitstream folder contains the IP files created within the Vivado environment
 
 In order to run these projects the folders can be uploaded directly to a Jupyter evironment,
 connected to a PYNQ-z2 board.
-
-A further folder is provided which contains the .slx file required to open the block design in SystemGenerator.
-
-The project is also available as a github repository under https://github.com/AdamGetty/ImageProc-PYNQProject.
